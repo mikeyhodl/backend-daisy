@@ -38,6 +38,6 @@
     </ul>
   </div> -->
   <div class="navbar-end">
-    <a class="btn">Location</a>
+  <a class="btn" href="https://www.google.com/maps/place/Walt+Disney+World%C2%AE+Resort/@28.3771857,-81.57074,15z/data=!4m2!3m1!1s0x0:0xa71e391fd01cf1a0?sa=X&ved=2ahUKEwiStvGx-c__AhU9VKQEHTwSBpwQ_BJ6BQiEARAI">Location</a>
   </div>
 </div>
