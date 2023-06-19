@@ -17,9 +17,9 @@
       </ul>
     </div> -->
     <a href="/" class="btn btn-ghost normal-case text-xl">
-  <img src="https://thetvdb.com/images/attribution/logo1.png" alt="logo" style="height: 25px;">
+  <img src="https://thetvdb.com/images/attribution/logo1.png" alt="logo" style="height: 20px;">
   <span>|</span>
-  <img src="https://thetvdb.com/images/tvtime.png" alt="logo" style="height: 25px;">
+  <img src="https://thetvdb.com/images/tvtime.png" alt="logo" style="height: 20px;">
 </a>
   </div>
   <!-- <div class="navbar-center hidden lg:flex">
@@ -38,6 +38,6 @@
     </ul>
   </div> -->
   <div class="navbar-end">
-  <a class="btn" href="https://www.google.com/maps/place/Walt+Disney+World%C2%AE+Resort/@28.3771857,-81.57074,15z/data=!4m2!3m1!1s0x0:0xa71e391fd01cf1a0?sa=X&ved=2ahUKEwiStvGx-c__AhU9VKQEHTwSBpwQ_BJ6BQiEARAI">Location</a>
+  <a class="btn btn-success btn-sm" href="https://www.google.com/maps/place/Walt+Disney+World%C2%AE+Resort/@28.3771857,-81.57074,15z/data=!4m2!3m1!1s0x0:0xa71e391fd01cf1a0?sa=X&ved=2ahUKEwiStvGx-c__AhU9VKQEHTwSBpwQ_BJ6BQiEARAI">Location</a>
   </div>
 </div>

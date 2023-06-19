@@ -11,7 +11,7 @@
             <!-- Your page-specific content here -->
         </div>
 
-        @include('partials.footer')
+        <!-- @include('partials.footer') -->
       <script src="https://cdn.tailwindcss.com"></script>
 
     </body>
