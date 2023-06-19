@@ -1,6 +1,6 @@
 <div class="navbar bg-base-100">
   <div class="navbar-start">
-    <div class="dropdown">
+    <!-- <div class="dropdown">
       <label tabindex="0" class="btn btn-ghost lg:hidden">
         <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h8m-8 6h16" /></svg>
       </label>
@@ -15,10 +15,14 @@
         </li>
         <li><a>Item 3</a></li>
       </ul>
-    </div>
-    <a class="btn btn-ghost normal-case text-xl">daisyUI</a>
+    </div> -->
+    <a href="/" class="btn btn-ghost normal-case text-xl">
+  <img src="https://thetvdb.com/images/attribution/logo1.png" alt="logo" style="height: 25px;">
+  <span>|</span>
+  <img src="https://thetvdb.com/images/tvtime.png" alt="logo" style="height: 25px;">
+</a>
   </div>
-  <div class="navbar-center hidden lg:flex">
+  <!-- <div class="navbar-center hidden lg:flex">
     <ul class="menu menu-horizontal px-1">
       <li><a>Item 1</a></li>
       <li tabindex="0">
@@ -32,8 +36,8 @@
       </li>
       <li><a>Item 3</a></li>
     </ul>
-  </div>
+  </div> -->
   <div class="navbar-end">
-    <a class="btn">Button</a>
+    <a class="btn">Location</a>
   </div>
 </div>

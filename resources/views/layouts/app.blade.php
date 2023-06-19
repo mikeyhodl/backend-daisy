@@ -2,7 +2,7 @@
     <head>
     <link href="https://cdn.jsdelivr.net/npm/daisyui@3.0.2/dist/full.css" rel="stylesheet" type="text/css" />
   </head>
-    <body data-theme="emerald">
+    <body data-theme="dark">
         @include('partials.header')
       
 
