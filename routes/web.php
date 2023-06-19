@@ -17,6 +17,14 @@ Route::get('/', function () {
     return view('dash');
 });
 
+Route::get('/book', function () {
+    return view('book');
+});
+
+Route::get('/trailers', function () {
+    return view('trailers');
+});
+
 Route::get('/post', function () {
     return view('post');
 })->name('post');

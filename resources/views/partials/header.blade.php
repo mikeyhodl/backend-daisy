@@ -22,10 +22,10 @@
   <img src="https://thetvdb.com/images/tvtime.png" alt="logo" style="height: 20px;">
 </a>
   </div>
-  <!-- <div class="navbar-center hidden lg:flex">
-    <ul class="menu menu-horizontal px-1">
-      <li><a>Item 1</a></li>
-      <li tabindex="0">
+  <div class="navbar-center hidden lg:flex">
+    <ul class="menu menu-horizontal px-1 space-x-1">
+    <a href="/book"><li class="btn btn-glass">Book</li></a>
+      <!-- <li tabindex="0">
         <details>
           <summary>Parent</summary>
           <ul class="p-2">
@@ -33,11 +33,11 @@
             <li><a>Submenu 2</a></li>
           </ul>
         </details>
-      </li>
-      <li><a>Item 3</a></li>
+      </li> -->
+      <a href="/trailers"><li class="btn btn-glass">Trailers</li></a>
     </ul>
-  </div> -->
+  </div>
   <div class="navbar-end">
-  <a class="btn btn-success btn-sm" href="https://www.google.com/maps/place/Walt+Disney+World%C2%AE+Resort/@28.3771857,-81.57074,15z/data=!4m2!3m1!1s0x0:0xa71e391fd01cf1a0?sa=X&ved=2ahUKEwiStvGx-c__AhU9VKQEHTwSBpwQ_BJ6BQiEARAI">Location</a>
+  <a class="btn btn-success btn-sm rounded-full" href="https://www.google.com/maps/place/Walt+Disney+World%C2%AE+Resort/@28.3771857,-81.57074,15z/data=!4m2!3m1!1s0x0:0xa71e391fd01cf1a0?sa=X&ved=2ahUKEwiStvGx-c__AhU9VKQEHTwSBpwQ_BJ6BQiEARAI">Location</a>
   </div>
 </div>
